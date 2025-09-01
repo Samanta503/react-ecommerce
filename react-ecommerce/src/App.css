@@ -1,3 +1,11 @@
 *{
   font-family: "Poppins", sans-serif;
 }
+
+.bg-brand{
+  background: #f3f5f9;
+}
+
+.bg-brand-container{
+  min-height: 100vh;
+}

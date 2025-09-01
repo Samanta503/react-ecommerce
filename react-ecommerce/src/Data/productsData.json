@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "name": "Airpod",
+        "description": "Introducing the AirPods – the ultimate wireless audio experience that elevates your daily listening. With their sleek design and advanced technology, these earbuds not only deliver rich, immersive sound but also ensure seamless connectivity with all your Apple devices. Whether you're catching up on podcasts, enjoying your favorite music, or taking important calls, the AirPods provide an uninterrupted audio experience backed by exceptional battery life. Their lightweight construction and intuitive touch controls make them a must-have accessory for on-the-go lifestyles. - 🎶 **Superior Sound Quality:** Experience crystal-clear audio with deep bass and crisp highs. - ⚡ **Seamless Connectivity:** Effortlessly connect to your Apple devices with a single tap. - 🔋 **All-Day Battery Life:** Enjoy up to 5 hours of listening time on a single charge. - ☔ **Sweat and Water-Resistant:** Perfect for workouts or outdoor activities without fear. - 🌍 **Sustainably Designed:** Made from recycled materials, for those who care about the planet. Elevate your audio experience with AirPods and enjoy music like never before!",
+        "price": "16000",
+        "image": "https://i.ibb.co.com/NdWRDm8P/airpod.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Bag",
+        "description": "**Product Description:** Introducing our versatile and stylish bag, the ultimate accessory for your daily adventures! Crafted with premium materials, this bag combines functionality with elegance, making it perfect for any occasion, whether you're heading to the office, hitting the gym, or enjoying a weekend getaway. With ample storage space and multiple pockets, you'll have everything you need right at your fingertips while still looking chic. Elevate your accessory game with this must-have bag that effortlessly blends style and utility. **Features:** 👜 Made from high-quality, durable materials for long-lasting use 🌟 Sleek and modern design suitable for any setting 🎒 Spacious compartments to keep your essentials organized 👛 Lightweight construction for easy carrying ✨ Available in a variety of colors to match your personal style",
+        "price": "4500",
+        "image": "https://i.ibb.co.com/s9Th60Nm/bag.jpg"
+    },
+    {
+        "id": "3",
+        "name": "BodySpray",
+        "description": "**Product Description: Body Spray** Elevate your daily routine with our exquisite Body Spray, designed to refresh your senses and leave you feeling invigorated throughout the day. Carefully crafted with a blend of delicate fragrances, this body spray envelops you in an enchanting aroma that lingers softly on your skin. Perfect for a quick refresh after a workout or to complement your daily endeavors, our body spray will become your go-to companion for a burst of rejuvenation at any moment. Indulge in a delightful scent experience that not only enhances your mood but also adds a touch of luxury to your self-care rituals. **Key Features:** 🌸 **Long-lasting Fragrance** - Enjoy a scent that lasts all day, keeping you feeling fresh and confident. 💧 **Lightweight Formula** - Our spray is easy to apply and absorbs quickly for a non-greasy feel. 🍃 **Cruelty-Free** - We pride ourselves on offering products that are never tested on animals. 🌿 **Skin-Friendly Ingredients** - Infused with natural extracts to nurture and soothe your skin. 👜 **Travel-Friendly Size** - Conveniently sized to fit into your handbag, so you can refresh anytime, anywhere!",
+        "price": "1500",
+        "image": "https://i.ibb.co.com/bjpcj7kN/body-spray.jp"
+    },
+    {
+        "id": "4",
+        "name": "Camera",
+        "description": "Capture every moment in stunning detail with our state-of-the-art camera designed for both amateur enthusiasts and seasoned photographers. This versatile device combines cutting-edge technology with user-friendly features, ensuring you can take breathtaking photos and videos with ease. Featuring robust performance in low-light conditions and advanced autofocus capabilities, this camera is perfect for every setting, from vibrant landscapes to intricate close-ups. Experience the joy of creativity with customizable settings and seamless connectivity to share your masterpieces instantly.",
+        "price": "10000",
+        "image": "https://i.ibb.co.com/NgK8DR1V/camera.jpg"
+    }
+
+]
